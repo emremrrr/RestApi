@@ -1,0 +1,17 @@
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\bin\Debug\netcoreapp2.1\CRMCoreApi.deps.json
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\bin\Debug\netcoreapp2.1\CRMCoreApi.runtimeconfig.json
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\bin\Debug\netcoreapp2.1\CRMCoreApi.runtimeconfig.dev.json
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\bin\Debug\netcoreapp2.1\CRMCoreApi.dll
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\bin\Debug\netcoreapp2.1\CRMCoreApi.pdb
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\obj\Debug\netcoreapp2.1\CRMCoreApi.csproj.CoreCompileInputs.cache
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\obj\Debug\netcoreapp2.1\CRMCoreApi.RazorAssemblyInfo.cache
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\obj\Debug\netcoreapp2.1\CRMCoreApi.RazorAssemblyInfo.cs
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\obj\Debug\netcoreapp2.1\CRMCoreApi.AssemblyInfoInputs.cache
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\obj\Debug\netcoreapp2.1\CRMCoreApi.AssemblyInfo.cs
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\obj\Debug\netcoreapp2.1\CRMCoreApi.RazorTargetAssemblyInfo.cache
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\obj\Debug\netcoreapp2.1\CRMCoreApi.dll
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\obj\Debug\netcoreapp2.1\CRMCoreApi.pdb
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\obj\Debug\netcoreapp2.1\CRMCoreApi.Properties.Resources.resources
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\obj\Debug\netcoreapp2.1\CRMCoreApi.csproj.GenerateResource.cache
+C:\InfoChainApps\InfoChain\INFOCHAIN\CRMCoreApi\obj\Debug\netcoreapp2.1\CRMCoreApi.csprojAssemblyReference.cache
